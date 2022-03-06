@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="titleAplication">Calculadora de Gorjeta</string>
+    <string name="text1">Digite um valor, ex: 36.50</string>
+    <string name="text2">Gorjeta</string>
+    <string name="text3">Total</string>
+</resources>
